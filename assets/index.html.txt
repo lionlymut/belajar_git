@@ -8,3 +8,4 @@ Nama Teman: Faradilla Syifa
 No: 20
 Alamat: Jl. Tridharma No.676/Rt. 17 Rw. 70 
 Cita: ui/ux designer
+Link git: https://github.com/tneighbourhds/belajar_git2.git
